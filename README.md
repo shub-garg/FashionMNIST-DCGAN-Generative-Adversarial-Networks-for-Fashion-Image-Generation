@@ -44,5 +44,6 @@ Epoch 50: Significant enhancements with detailed and realistic images.
 <p align="center">
   <img src="Images/generated.png" alt="Sample Generated Image">
 </p>
+
 ## Conclusion
 The project successfully demonstrates the ability of a DCGAN to generate realistic images of clothing items from the FashionMNIST dataset. Further training and model refinement can yield even better results.
