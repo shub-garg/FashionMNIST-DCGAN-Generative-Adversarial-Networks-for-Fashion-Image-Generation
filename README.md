@@ -33,11 +33,15 @@ jupyter notebook FashionMNIST_DCGAN.ipynb
 ## Results and Observations
 ### Discriminator and Generator Losses:
 Discriminator losses gradually increase as it becomes harder to distinguish between real and fake images.
+
 Generator losses decrease as it becomes better at generating realistic images.
 
 ## Image Quality Progression:
+
 Epoch 10: Blurry and lacking detail.
+
 Epoch 30: Improved clarity and texture.
+
 Epoch 50: Significant enhancements with detailed and realistic images.
 
 ## Sample Generated Images
