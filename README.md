@@ -40,9 +40,9 @@ Epoch 10: Blurry and lacking detail.
 Epoch 30: Improved clarity and texture.
 Epoch 50: Significant enhancements with detailed and realistic images.
 
-##Sample Generated Images
+## Sample Generated Images
 <p align="center">
-  <img src="Image/generated.png" alt="Sample Generated Image">
+  <img src="Images/generated.png" alt="Sample Generated Image">
 </p>
-##Conclusion
+## Conclusion
 The project successfully demonstrates the ability of a DCGAN to generate realistic images of clothing items from the FashionMNIST dataset. Further training and model refinement can yield even better results.
